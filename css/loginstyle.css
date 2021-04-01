@@ -1,0 +1,58 @@
+/*Inicio sesión*/
+
+.formulario {
+	position: absolute;
+	margin: 50px 0px 0px 400px;
+	width: 50%;
+	max-width: 500px;
+	padding: 50px ;
+	background: #FFA07A;
+	border: 5px solid rgba(0, 0, 0, 0.3);
+	border-radius: 20px;
+}
+
+.color {
+	color: black;
+}
+
+.botonenviar {
+	align-items: center;
+	margin: 0px 40px 0px 85px;
+}
+
+.bordebtn {
+	border-radius: 10px;
+}
+
+.fondologin {
+	background-image: url(../imagenes/paisaje4.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+ul.breadcrumb {
+	padding: 10px 16px;
+	list-style: none;
+	/* background-color: #eee; */
+  }
+
+  ul.breadcrumb li {
+	display: inline;
+	font-size: 18px;
+  }
+
+  ul.breadcrumb li+li:before {
+	padding: 8px;
+	color: black;
+	content: "/\00a0";
+  }
+
+  ul.breadcrumb li a {
+	color: #0275d8;
+	text-decoration: none;
+  }
+
+  ul.breadcrumb li a:hover {
+	color: #01447e;
+	text-decoration: underline;
+  }
