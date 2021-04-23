@@ -1,2 +1,2 @@
 # citasApp
-Aplicación web para cualquier tipo de consultorio/hospital y poder generar citas medicas
+Aplicación web de citas medicas para cualquier tipo de consultorio/hospital
